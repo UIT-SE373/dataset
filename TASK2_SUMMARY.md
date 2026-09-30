@@ -137,3 +137,11 @@ _Các đề này đã có sẵn bài mẫu Band 8.5 chính thức từ Cambridge
 | 40  | `task2_cam11_test4_01` | Cambridge IELTS 11 - Test 4 |   **5.5**    |  271  |
 
 ---
+
+## 4. Các Mẫu Hiệu Chuẩn Bổ Sung (Calibration Samples - Delta Publishing)
+
+| STT | ID | Nguồn | Điểm Overall | Số từ | Mục đích hiệu chuẩn |
+| :-: | :--- | :--- | :---: | :---: | :--- |
+| 41 | `task2_delta_unit1_01` | IELTS Advantage: Writing Skills (Delta Publishing) - Unit 1, Page 8 | **3.0** | 116 | Điểm neo cận dưới cực đoan (vi phạm cấu trúc, underlength) |
+| 42 | `task2_delta_unit2_01` | IELTS Advantage: Writing Skills (Delta Publishing) - Unit 2, Page 18 | **3.5** | 167 | Điểm neo cận dưới (ngữ pháp thô sơ, câu lỗi chi phối) |
+| 43 | `task2_delta_unit3_01` | IELTS Advantage: Writing Skills (Delta Publishing) - Unit 3, Page 28 | **9.0** | 271 | Điểm neo cận trên hoàn hảo (chuẩn mực 4 tiêu chí) |
